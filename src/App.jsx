@@ -1,11 +1,10 @@
-// import { Registration } from "./Registration"
-
-import { RegistrationReact } from "./RegistrationReact"
+import { ContactForm } from "./ContactForm"
 
 export const App=()=>{
   return(
     <>
-    <RegistrationReact/>
+    <ContactForm/>
+
     
     </>
   )
