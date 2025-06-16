@@ -1,9 +1,21 @@
-import { ContactForm } from "./ContactForm"
+import { Usememo } from "./Memo/Usememo"
+
+
+
+
+
+
+
+
 
 export const App=()=>{
   return(
     <>
-    <ContactForm/>
+    <Usememo/>
+   
+    
+    
+       
 
     
     </>
